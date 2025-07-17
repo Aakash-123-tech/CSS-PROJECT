@@ -90,7 +90,7 @@ label .bar{
 
 /* Hero Section Styles */
 .hero {
-  background-image: url(/assest/images/car.jpg);
+  background-image: url('../images/car.jpg');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
